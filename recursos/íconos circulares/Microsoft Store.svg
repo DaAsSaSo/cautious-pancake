@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" version="1.1" viewBox="0 0 1000 1000" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   
+    .fil4 {fill:#00A4EF;fill-rule:nonzero}
+    .fil3 {fill:#7FBA00;fill-rule:nonzero}
+    .fil2 {fill:#F25022;fill-rule:nonzero}
+    .fil5 {fill:#FFB900;fill-rule:nonzero}
+    .fil0 {fill:url(#f)}
+    .fil9 {fill:url(#e);fill-rule:nonzero}
+    .fil8 {fill:url(#d);fill-rule:nonzero}
+    .fil1 {fill:url(#c);fill-rule:nonzero}
+    .fil6 {fill:url(#a);fill-rule:nonzero}
+    .fil7 {fill:url(#b);fill-rule:nonzero}
+   
+  </style>
+    <mask id="j">
+  <radialGradient id="i" cx="229.56" cy="269.63" r="0" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </radialGradient>
+     <rect x="229.53" y="269.6" width="240.45" height="140.28" fill="url(#i)"/>
+    </mask>
+    <mask id="h">
+  <radialGradient id="g" cx="530.05" cy="269.63" r="0" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </radialGradient>
+     <rect x="530.02" y="269.6" width="240.45" height="140.28" fill="url(#g)"/>
+    </mask>
+  <linearGradient id="f" x1="413.31" x2="586.69" y1="134.26" y2="865.74" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0669BC" offset="0"/>
+   <stop stop-color="#1B4779" offset=".7098"/>
+   <stop stop-color="#233B61" offset="1"/>
+  </linearGradient>
+  <linearGradient id="e" x1="500" x2="500" y1="194.51" y2="224.56" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1FB8FD" offset="0"/>
+   <stop stop-color="#0591F2" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d" x1="500" x2="500" y1="204.52" y2="294.67" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#30DAFF" offset="0"/>
+   <stop stop-color="#0194D4" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="447.41" x2="552.59" y1="340.99" y2="739.13" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#EBEBEB" offset=".7098"/>
+   <stop stop-color="#DFDFDF" offset="1"/>
+  </linearGradient>
+  <radialGradient id="a" cx="349.76" cy="290.66" r="57.69" gradientTransform="matrix(-.9404 .94398 -.99263 -.98886 967 248)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#BFBFBF" offset="0"/>
+   <stop stop-color="#fff" offset="1"/>
+  </radialGradient>
+  <radialGradient id="b" cx="650.24" cy="290.66" r="57.69" gradientTransform="matrix(-.9404 .94398 -.99263 -.98886 1550 -36)" gradientUnits="userSpaceOnUse" xlink:href="#a">
+  </radialGradient>
+ </defs>
+ 
+  
+  <circle class="fil0" cx="500" cy="500" r="500"/>
+  
+   <path class="fil1" d="m810.5 294.67c0-13.83-11.21-25.04-25.04-25.04h-570.92c-13.83 0-25.04 11.21-25.04 25.04v415.67c0 55.32 44.84 100.16 100.16 100.16h420.68c55.32 0 100.16-44.84 100.16-100.16v-415.67z"/>
+   <polygon class="fil2" points="489.98 409.85 369.79 409.85 369.79 530.05 489.98 530.05"/>
+   <polygon class="fil3" points="630.21 409.85 510.02 409.85 510.02 530.05 630.21 530.05"/>
+   <polygon class="fil4" points="489.98 550.08 369.79 550.08 369.79 670.27 489.98 670.27"/>
+   <polygon class="fil5" points="630.21 550.08 510.02 550.08 510.02 670.27 630.21 670.27"/>
+   <path class="fil6" d="m468.29 269.63h-237.06c-1.1 6.51-1.67 13.21-1.67 20.03 0 66.38 53.82 120.19 120.2 120.19s120.19-53.81 120.19-120.19c0-6.82-0.57-13.52-1.66-20.03z" mask="url(#j)"/>
+   <path class="fil7" d="m768.77 269.63h-237.06c-1.09 6.51-1.66 13.21-1.66 20.03 0 66.38 53.81 120.19 120.19 120.19s120.2-53.81 120.2-120.19c0-6.82-0.57-13.52-1.67-20.03z" mask="url(#h)"/>
+   <path class="fil8" d="m329.73 229.56c0-22.12 17.93-40.06 40.06-40.06h260.42c22.13 0 40.06 17.94 40.06 40.06v60.1c0 11.06-8.97 20.03-20.03 20.03s-20.03-8.97-20.03-20.03v-60.1h-260.42v60.1c0 11.06-8.97 20.03-20.03 20.03-11.07 0-20.03-8.97-20.03-20.03v-60.1z"/>
+   <polygon class="fil9" points="630.21 189.5 369.79 189.5 369.79 229.56 630.21 229.56"/>
+  
+ 
+</svg>
