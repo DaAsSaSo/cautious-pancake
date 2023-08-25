@@ -1,4 +1,4 @@
-.avion {
+.avion{
 width: clamp(1px, 400px, 100vw);
 max-width: 400px;
 min-width: 1px;
