@@ -1,0 +1,18 @@
+.avion {
+width: clamp(1px, 400px, 100vw);
+max-width: 400px;
+min-width: 1px;
+width: 100%
+}
+
+.avion2{
+width: calc(800px + 2rem);
+min-width: 1px;
+max-width: 900px;
+font-size: 0;
+}
+
+.avion3{
+display: inline-block;
+box-sizing: border-box;
+}
